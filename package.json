@@ -1,0 +1,12 @@
+{
+  "name": "app_get_file_from_banco_central",
+  "version": "1.0.0",
+  "description": "example of puppeeter",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-run"
+  },
+  "author": "",
+  "license": "ISC"
+}
